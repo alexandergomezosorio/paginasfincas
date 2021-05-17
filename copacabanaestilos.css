@@ -28,12 +28,11 @@ h1{
     color: blue;
 }
 footer{
-    padding: 50px ;
-background-color: blue;
+    text-align: center;
+    background-color: blue;
 }
 footer p{
     color: cornsilk;
-    text-align: center;
     font-size: small;
 }
 .piscina{

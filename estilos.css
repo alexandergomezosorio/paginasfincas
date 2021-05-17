@@ -23,12 +23,12 @@ p{  font-size:20px ;
     color: white;
 }
 footer{
-    padding: 50px ;
-background-color: black;
+    text-align: center; 
+    background-color: black;
 }
+
 footer p{
-    color: whitesmoke;
-    text-align: center;
+    color: white;
     font-size: small;
 }
 
